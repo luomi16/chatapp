@@ -1,3 +1,6 @@
+// The component manages the state of the authenticated user and 
+// conditionally renders different pages based on whether a user is authenticated or not.
+
 import { useState } from "react";
 
 import "./App.css";
